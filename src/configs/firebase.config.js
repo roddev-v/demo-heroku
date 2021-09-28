@@ -8,13 +8,11 @@
 // IMPORTANT! Orice fisier de configurare folositi, adaugati-l in fisierul .gitignore, pentru a nu
 // share-ui datele private.
 const firebaseConfig = {
-    apiKey: "TODO",
-    authDomain: "TODO",
-    databaseURL: "TODO",
-    projectId: "TODO",
-    storageBucket: "TODO",
-    messagingSenderId: "TODO",
-    appId: "TODO"
-  };
-
-  export default firebaseConfig;
+  apiKey: "AIzaSyBZprNoSAs7aoWlkZGmMtfZ1QM0034IUXY",
+  authDomain: "telecom-academy-react.firebaseapp.com",
+  projectId: "telecom-academy-react",
+  storageBucket: "telecom-academy-react.appspot.com",
+  messagingSenderId: "1010059258093",
+  appId: "1:1010059258093:web:2f4c56caf581671e8944e4",
+};
+export default firebaseConfig;
